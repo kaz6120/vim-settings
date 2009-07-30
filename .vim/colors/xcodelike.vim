@@ -2,8 +2,11 @@
 " Name: xcodelike
 " Purpose: XCode-like colour scheme
 " Maintainer: Kazufumi Tomori (kaz6120@gmail.com)
+" 
+" This colour scheme provides OS X Xcode like colouring syntax.
+"
 " @since  : 9.4.11
-" @version: 9.4.12
+" @version: 9.7.30
 " =============================================================================
 
 set background=light
